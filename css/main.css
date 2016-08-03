@@ -6,31 +6,15 @@ html {
 }
 
 body {
-    background-color: LightGray;
-    	margin: 0px;
-       		font-family: 'Roboto', sans-serif;
-    			color: #838994;
-    			 	display: block;
-    			 		line-height: 1;
-}
-.top-navigation {
-	color: #fff;
-	display: block;
-	line-height: 1.188em;
-	float: left;
-	width: 75px
-    margin: 0 auto;
-	padding: 0px 15px;
-	border: 0px;
-	vertical-align: baseline;
-	background: #ec008c;
+    background-color: white;
+    margin: 0px;
+    font-family: 'Roboto', sans-serif;
+    color: #838994;
+    display: block;
+    line-height: 1;
+    text-align: center;
 }
 
-.top-navigation > .content {
-	width: 725px;
-    margin: 0 auto;
-	padding: 0px 15px;
-	border: 0px;
-	vertical-align: baseline;
-	background: #ec008c;
+.content {
+	align-content: center;
 }
