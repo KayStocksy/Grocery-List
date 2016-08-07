@@ -18,3 +18,11 @@ body {
 .content {
 	align-content: center;
 }
+
+.main {
+	margin: 0 20%;
+}
+
+.list {
+	margin: 0 44%;
+}
